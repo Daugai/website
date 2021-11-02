@@ -24,6 +24,8 @@ jobs:
 
       - name: Build my App
         run: yarn build && yarn export && touch ./out/.nojekyll
+        env:
+          NEXT_PUBLIC_IG_TK: ${{ secrets.NEXT_PUBLIC_IG_TK }}
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.0
