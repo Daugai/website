@@ -15,7 +15,7 @@ import { ChevronDownIcon } from '@heroicons/react/solid'
 
 const navigation = [
     { name: 'Apie Daugus', href: '/apie-daugus' },
-    { name: 'Pramogauk Daugusoe', href: '/pramogauk-dauguose' },
+    { name: 'Pramogauk Dauguose', href: '/pramogauk-dauguose' },
     { name: 'Kontaktai', href: '/kontaktai' },
 ]
 

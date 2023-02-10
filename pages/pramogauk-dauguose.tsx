@@ -45,12 +45,12 @@ const tableContent = [
                 description: 'Pirtis, kubilas, biliardas, dviračiai, sporto aikštelė, stalo žaidimai, valtys, vandens dviračiai, žvejyba, lauko tenisas, lauko baseinas.'
             },
             {
-                title: 'Daugų irklavimo bazė',
-                address: 'Kalvų g. 15, Salos k., Daugų sen., Alytaus r.',
-                phone: '+370 315 69 395, +370 612 77 423',
-                email: 'menas.daugai@gmail.com',
-                web: '',
-                description: 'Kelionių organizavimas baidarėmis, vikingų valtimi, krepšinio, paplūdimio tinklinio, vaikų žaidimų aikštelės.'
+                title: 'Poilsio bazė Draugai',
+                address: 'Kalvų g. 23C, Salos k., Daugų sen., Alytaus r.',
+                phone: '+370 677 08524',
+                email: 'info@bazedraugai.lt',
+                web: 'www.bazedraugai.lt',
+                description: 'Pažintinių kelionių organizavimas, krepšinio, paplūdimio tinklinio, vaikų žaidimų aikštelės, lauko stalo tenisas, pirtis.'
             },
             {
                 title: 'Daugų technologijos ir verslo mokykla',
@@ -164,14 +164,15 @@ const tableContent = [
                 `
             },
             {
-                title: 'Daugų irklavimo bazė',
-                address: 'Kalvų g. 15, Salos k., Daugų sen., Alytaus r.',
-                phone: '+370 315 69 395, +370 612 77 423',
-                email: 'menas.daugai@gmail.com',
-                web: '',
+                title: 'Poilsio bazė Draugai',
+                address: 'Kalvų g. 23C, Salos k., Daugų sen., Alytaus r.',
+                phone: '+370 677 08524',
+                email: 'info@bazedraugai.lt',
+                web: 'www.bazedraugai.lt',
                 description: `
-                    14 kambarių, 25 vietos<br />
-                    Kambariai su patogumais,1 ir2 vietų. Yra krepšinio, paplūdimio tinklinio, vaikų žaidimų aikštelė, baidarės, vikingų valtis. Galima rengti stovyklas. Priimamos grupė nuo 10 žmonių.
+                    Poilsio bazėje yra 25 miegamos vietos (11 dviviečių, bei 3 vienviečiai kambariai - kiekvienas kambarys turi san. mazgą – dušą bei tualetą). Pirtis. Teritorijoje yra krepšinio, paplūdimio tinklinio, vaikų žaidimų aikštelės, lauko stalo tenisas, paplūdimys. 
+                    <br />
+                    Galima rengti stovyklas, įmonės ar asmenines šventes, konferencijas. Maitinimas ir kitos paslaugos pagal susitarimą.
                 `
             },
             {
@@ -258,12 +259,12 @@ const tableContent = [
         title: 'Konferencijų salės',
         data: [
             {
-                title: 'Daugų irklavimo bazė',
-                address: 'Kalvų g. 15, Salos k., Daugų sen. Alytaus r.',
-                phone: '+370 315 69 395, +370 612 77 423',
-                email: 'menas.daugai@gmail.com',
-                web: '',
-                description: 'Konferencijų salė 50 vietų, multimedia, ekranas.'
+                title: 'Poilsio bazė Draugai',
+                address: 'Kalvų g. 23C, Salos k., Daugų sen., Alytaus r.',
+                phone: '+370 677 08524',
+                email: 'info@bazedraugai.lt',
+                web: 'www.bazedraugai.lt',
+                description: 'Konferencijų salė talpinanti iki 50 asmenų, multimedija, ekranas.'
             },
             {
                 title: 'Daugų technologijos ir verslo mokykla',
